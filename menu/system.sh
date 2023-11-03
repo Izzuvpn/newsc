@@ -116,7 +116,7 @@ message-ssh
 wget https://raw.githubusercontent.com/Izzuvpn/newsc/main/dns2.sh && chmod +x dns2.sh && ./dns2.sh
 ;;
 88)
-wget https://raw.githubusercontent.com/Izzuvpn/newsc/main/udp.sh && bash udp.sh
+wget https://raw.githubusercontent.com/jabarxz/Vergil/main/Tunnel/udp.sh && bash udp.sh
 ;;
 99)
 mv /usr/local/bin/xray /usr/local/bin/xray.bakk && wget -q -O /usr/local/bin/xray "https://github.com/NevermoreSSH/Xcore-custompath/releases/download/Xray-linux-64-v1.7.5/Xray-linux-64-v1.7.5" && chmod 755 /usr/local/bin/xray && xray version
