@@ -1,10 +1,11 @@
 <h2 align="center">
 
-♦️Autoscript SSH XRAYS Websocket Multiport By Izzuvpn 2023-2024♦️
+♦️Autoscript SSH XRAYS Websocket Multiport♦️
+🔹By Izzuvpn🔹
 
 
 
- <h2 align="center">AutoScript VPN <img src="https://img.shields.io/badge/Version-Stabil_2.0-purple.svg"></h2>
+ <h2 align="center">AutoScript VPN 2023-2024 <img src="https://img.shields.io/badge/Version-Stabil_2.0-purple.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
