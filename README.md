@@ -1,6 +1,7 @@
 <h2 align="center">
 
-♦️Autoscript SSH XRAYS Websocket Multiport♦️
+♦️Autoscript SSH XRAYS Websocket Multiport♦
+
 🔹By Izzuvpn🔹
 
 
